@@ -2,6 +2,11 @@
 
 Turn a business interview into a sitemap, page purposes, content plan, features list, and landing-page direction. Project 10 in the Jamil Darwish Automation Lab.
 
+[![Verify](https://github.com/Jamilof1/website-brief-generator/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jamilof1/website-brief-generator/actions/workflows/ci.yml)
+[View in Jamil Darwish's portfolio](https://jamildarwish.com/#automation-lab) · [MIT License](./LICENSE)
+
+![Website Brief Generator interface](./public/preview.png)
+
 ## Modes
 
 - **Demo:** transparent strategy rules generate a usable brief in the browser.
